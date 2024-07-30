@@ -1,0 +1,15 @@
+.flight-status {
+  margin: 20px;
+}
+
+.flight-status ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.flight-status li {
+  background: #f9f9f9;
+  margin: 5px 0;
+  padding: 10px;
+  border: 1px solid #ddd;
+}

@@ -1,0 +1,32 @@
+.notification-preferences {
+  margin: 20px;
+}
+
+.notification-preferences form {
+  display: flex;
+  flex-direction: column;
+}
+
+.notification-preferences div {
+  margin: 10px 0;
+}
+
+.notification-preferences label {
+  margin-right: 10px;
+}
+
+.notification-preferences input {
+  padding: 5px;
+}
+
+.notification-preferences button {
+  padding: 10px;
+  background-color: #333;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}
+
+.notification-preferences button:hover {
+  background-color: #555;
+}
